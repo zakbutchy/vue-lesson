@@ -1,5 +1,8 @@
 # vue-lesson
 
+## Version
+@vue/cli 4.4.4
+
 ## Project setup
 ```
 npm install
